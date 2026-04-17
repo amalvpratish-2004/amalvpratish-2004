@@ -28,15 +28,15 @@ I'm a Computer Science undergrad at **IIIT Kottayam** (CGPA: 9.22) with a passio
 
 ## Featured Projects
 
-### 🤝 [Collab.ai](https://github.com/amalvpratish-2004)
+### 🤝 [Collab.ai](https://github.com/amalvpratish-2004/collab.ai)
 An AI-driven collaborative platform with real-time video, automated meeting transcription, and OpenAI-powered meeting summaries and agents.  
 `Next.js` `TypeScript` `tRPC` `Drizzle ORM` `Neon Postgres` `Stream SDK` `OpenAI` `Inngest`
 
-### 📚 [Comebyn Study](https://github.com/amalvpratish-2004)
+### 📚 [Comebyn Study](https://github.com/Sidharth-VS/comebyn-study)
 A collaborative study platform with real-time WebSocket chat, an AI-powered PDF summarizer, and a quiz/flashcard generator built on the Gemini API.  
 `Next.js` `FastAPI` `PostgreSQL` `AWS` `WebSockets` `Gemini API`
 
-### 🔐 [Passlock](https://github.com/amalvpratish-2004)
+### 🔐 [Passlock](https://github.com/amalvpratish-2004/passlock)
 A modern password manager with **client-side encryption** via Libsodium, 2FA, and fluid Framer Motion animations.  
 `Next.js` `TypeScript` `MongoDB` `Libsodium` `BetterAuth`
 
