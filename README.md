@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a Computer Science undergrad at **IIIT Kottayam** (CGPA: 9.22) with a passion for full-stack development and AI research. I love building polished, scalable products — from collaborative platforms to AI-powered tools — and exploring how graph neural networks can model dynamic real-world systems.
+I'm a Computer Science undergrad at **IIIT Kottayam** with a passion for full-stack development and AI research. I love building polished, scalable products — from collaborative platforms to AI-powered tools — and exploring how graph neural networks can model dynamic real-world systems.
 
 - 🔬 Currently doing honours research on **Temporal Graph Neural Networks** for link prediction on dynamic graphs
 - 💼 Previously a **Junior Software Developer** at Kenspark (SkoolOfCode), where I built LLM-to-PPTX pipelines and cut presentation generation latency by **40%**
@@ -49,7 +49,6 @@ A parameter-free extension of the ARSS graph neural network that incorporates **
 
 - Implemented Base ARSS on the Wikipedia JODIE dataset (157k interactions) → **AUC: 0.9026**
 - Extended with exponential temporal reweighting → improved **AUC to 0.9142**, AP to **0.9194**
-- Supervised by Dr. Suchithra M S
 
 `PyTorch` `PyTorch Geometric` `GraphSAGE` `scikit-learn`
 
