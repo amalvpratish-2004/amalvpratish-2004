@@ -67,18 +67,6 @@ A parameter-free extension of the ARSS graph neural network that incorporates **
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalvpratish-2004&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amalvpratish-2004&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalvpratish-2004&hide_border=true" />
-</p>
-
----
 
 ## Competitive Programming
 
